@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment.
 
 
 ## Table of Contents
@@ -11,10 +11,7 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Company faces a huge lose when it lends a loan to the riskier people. Also company loses business when it misses to lend loan to the categories of people who properly pays the loan.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -28,21 +25,22 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Pandas - version 1.4.4
+- Numpy - version 1.21.5
+- Seaborn - version 0.11.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- Thans to Ankit Upgrade Professor for giving directions.
+- [Reference-1](https://github.com/amandwkr007/Credit-EDA-Case-Study/blob/main/Credit_EDA_CaseStudy.ipynb).
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by feel free to contact us!
+[@santhosh-ksr]
+[@Mihir]
 
 
 <!-- Optional -->
