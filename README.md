@@ -16,10 +16,10 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Ratio of employment_length with 7,8,9 Years of employment this risk of getting defaulters are very less, reducing interest will encourage them
+- Focussing on higher annual income people will lower the risk of defaulters
+- Avoiding Customer with home_ownership Mortage will reduce the risk of defaulters
+- Limit the Loan Amount to 10K for the Rented, Own House, Mortgage type of ownership this will also have risky applicants
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -32,8 +32,7 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- Thans to Ankit Upgrade Professor for giving directions.
+Thans to Ankit Upgrade Professor for giving directions.
 - [Reference-1](https://github.com/amandwkr007/Credit-EDA-Case-Study/blob/main/Credit_EDA_CaseStudy.ipynb).
 
 
