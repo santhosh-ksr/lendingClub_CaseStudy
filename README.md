@@ -38,8 +38,8 @@ Thans to Ankit Upgrade Professor for giving directions.
 
 ## Contact
 Created by feel free to contact us!
-[@santhosh-ksr]
-[@Mihir]
+@santhosh-ksr
+@mihirlawhatre
 
 
 <!-- Optional -->
